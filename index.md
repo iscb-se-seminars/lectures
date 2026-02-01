@@ -7,6 +7,7 @@ computational biology research across the southeastern US.
 - **Feb 17, 2026** — Xiaoming Liu University of South Florida
 <img width="559" height="644" alt="image" src="https://github.com/user-attachments/assets/dbfe4aa9-946b-4a5e-b408-05513745c38e" />
 
+- Student Host: Alyssa Obermayer
 - Zoom link ID: 886 6221 0832 Passcode: 1Gz5LM 
 - Join Meeting: https://shorturl.at/S3LFk
 - Add to outlook calendar: https://shorturl.at/xnwjY 
