@@ -17,3 +17,4 @@ ISCB Southeast Regional Chapter
 
 ## Contact
 timothy.shaw@moffitt.org Timothy Shaw from H Lee Moffitt Cancer Center
+leonhardy@usf.edu Leon Hardy from University of South Florida
