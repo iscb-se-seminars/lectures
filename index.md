@@ -5,7 +5,7 @@ computational biology research across the southeastern US.
 
 ## Upcoming Talks
 - **Feb 17, 2026** — Xiaoming Liu University of South Florida
-[Slide1.tiff](https://github.com/user-attachments/files/24987342/Slide1.tiff)
+<img width="559" height="644" alt="image" src="https://github.com/user-attachments/assets/dbfe4aa9-946b-4a5e-b408-05513745c38e" />
 
 - Zoom link ID: 886 6221 0832 Passcode: 1Gz5LM 
 - Join Meeting: https://shorturl.at/S3LFk
