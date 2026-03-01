@@ -3,6 +3,16 @@
 The ISCB Southeast Regional Chapter seminar series highlights computational biology research across the southeastern United States, while actively fostering a supportive and inclusive community for trainees. Through this series, we aim to empower the next generation of students and postdoctoral scholars by providing exposure to diverse scientific perspectives, career paths, and role models across academia, industry, and research institutes. By lowering barriers to access, promoting diversity in speakers and participants, and encouraging open dialogue, the series facilitates meaningful knowledge transfer, mentorship, and professional development, strengthening the regional computational biology ecosystem and its future leaders.
 
 ## Upcoming Talks
+- **1PM EST, March 24th, 2026** — Leon HardyUniversity of South Florida
+
+- **Postdoc Host:** Yalin Liao  
+- **Zoom ID:** 876 3297 7869  
+- **Join Meeting:** [Zoom link](https://us06web.zoom.us/j/87632977869)  
+- **Add to Outlook Calendar:** [Outlook calendar](https://tinyurl.com/5x33d4sr)
+- **Add to Google Calendar:** [Google calendar](https://tinyurl.com/796uz9cv)
+
+
+## Previous Talks
 - **Feb 17, 2026** — Xiaoming Liu University of South Florida
 <img width="559" height="644" alt="image" src="https://github.com/user-attachments/assets/dbfe4aa9-946b-4a5e-b408-05513745c38e" />
 
