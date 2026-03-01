@@ -4,6 +4,7 @@ The ISCB Southeast Regional Chapter seminar series highlights computational biol
 
 ## Upcoming Talks
 - **March 24th, 2026** — Leon Hardy, University of South Florida - 1PM EST
+<img width="565" height="650" alt="image" src="https://github.com/user-attachments/assets/d6966286-e98c-4f8e-9e1e-f3e7673c1ec3" />
 
 - **Postdoc Host:** Yalin Liao  
 - **Zoom ID:** 876 3297 7869  
