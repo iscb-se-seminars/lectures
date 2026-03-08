@@ -1,6 +1,6 @@
 ## Navigation
 - [Upcoming Talks](./)
-- [Previous Talks](previoustalks.html)
+- [Previous Talks](previous-talks)
   
 # ISCB Southeast USA Seminar Series
 
