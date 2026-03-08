@@ -6,7 +6,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfOpad2CdUT-4eOA801LNw0hiSuhwabe7_DAmL-
 
 ## Upcoming Talks
 - **March 24th, 2026** — Leon Hardy, University of South Florida - 1PM EST
-<img width="564" height="649" alt="image" src="https://github.com/user-attachments/assets/6e223da0-b0c4-4a15-9207-a132e18f8e78" />
+<img width="558" height="645" alt="image" src="https://github.com/user-attachments/assets/bd63f308-95dc-41ae-a6c6-77c41b95e7f1" />
 - **Postdoc Host:** Yalin Liao  
 - **Zoom ID:** 876 3297 7869  
 - **Join Meeting:** [Zoom link](https://us06web.zoom.us/j/87632977869)  
