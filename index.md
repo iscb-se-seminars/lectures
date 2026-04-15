@@ -6,6 +6,7 @@ Please respond to the google form to get added to the email list.
 - **Sign up** https://docs.google.com/forms/d/e/1FAIpQLSfOpad2CdUT-4eOA801LNw0hiSuhwabe7_DAmL-GudbBpK_-g/viewform?usp=dialog
 
 ## Upcoming Talks
+<img width="636" height="838" alt="image" src="https://github.com/user-attachments/assets/692212d7-05b1-486e-ac72-91dd3fb44436" />
 
 
 ## Previous Talks
