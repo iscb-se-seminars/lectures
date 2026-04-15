@@ -6,14 +6,7 @@ Please respond to the google form to get added to the email list.
 - **Sign up** https://docs.google.com/forms/d/e/1FAIpQLSfOpad2CdUT-4eOA801LNw0hiSuhwabe7_DAmL-GudbBpK_-g/viewform?usp=dialog
 
 ## Upcoming Talks
-- **March 24th, 2026** — Leon Hardy, University of South Florida - 1PM EST
-<img width="558" height="645" alt="image" src="https://github.com/user-attachments/assets/bd63f308-95dc-41ae-a6c6-77c41b95e7f1" />
 
-- **Postdoc Host:** Yalin Liao  
-- **Zoom ID:** 876 3297 7869  
-- **Join Meeting:** [Zoom link](https://us06web.zoom.us/j/87632977869)  
-- **Add to Outlook Calendar:** [Outlook calendar](https://tinyurl.com/5x33d4sr)
-- **Add to Google Calendar:** [Google calendar](https://tinyurl.com/796uz9cv)
 
 ## Previous Talks
 - [Previous Talks](previous-talks)
