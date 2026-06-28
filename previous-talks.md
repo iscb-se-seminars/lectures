@@ -1,4 +1,13 @@
 ## Previous Talks
+- ** April 2026 ** -
+## Upcoming Talks
+<img width="636" height="838" alt="image" src="https://github.com/user-attachments/assets/692212d7-05b1-486e-ac72-91dd3fb44436" />
+- ** Postdoc Host:** Zile Zhao
+- ** Zoom ID:** 835 6150 1572
+- ** Join Meeting:** Zoom link https://us06web.zoom.us/j/83561501572
+- ** Add to Outlook Calendar:** Outlook calendar https://tinyurl.com/5ytmhmn4
+- ** Add to Email Signup:** [Google calendar](https://tinyurl.com/2n692mjm)
+
 - **March 24th, 2026** — Leon Hardy, University of South Florida - 1PM EST
 <img width="558" height="645" alt="image" src="https://github.com/user-attachments/assets/bd63f308-95dc-41ae-a6c6-77c41b95e7f1" />
 
