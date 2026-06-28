@@ -1,5 +1,5 @@
 ## Previous Talks
-- ** April 2026 ** -
+- ** April 21st 2026 ** - Vladmir Uversky, University of South Florida - 1PM EST
 <img width="636" height="838" alt="image" src="https://github.com/user-attachments/assets/692212d7-05b1-486e-ac72-91dd3fb44436" />
 
 - ** Postdoc Host:** Zile Zhao
