@@ -1,7 +1,7 @@
 ## Previous Talks
 - ** April 2026 ** -
-## Upcoming Talks
 <img width="636" height="838" alt="image" src="https://github.com/user-attachments/assets/692212d7-05b1-486e-ac72-91dd3fb44436" />
+
 - ** Postdoc Host:** Zile Zhao
 - ** Zoom ID:** 835 6150 1572
 - ** Join Meeting:** Zoom link https://us06web.zoom.us/j/83561501572
