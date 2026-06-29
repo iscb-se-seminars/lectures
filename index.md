@@ -6,7 +6,7 @@ Please respond to the google form to get added to the email list.
 ## Upcoming Talks
 <img width="545" height="728" alt="image" src="https://github.com/user-attachments/assets/5644b916-c135-4c21-bfce-69b2044c632a" />
 
-- **Sign up** https://docs.google.com/forms/d/1jRtuw1xCa98PcbbQJ-mvjOs1gI84XHaQ6GBHHhiLKdk/edit
+- **Sign up** https://docs.google.com/forms/d/e/1FAIpQLSegjFyqK3ZjTtt95iaaQ7hk84HSbjTGJ36z49AgsiDCoR97jA/viewform?usp=dialog
   
 - Postdoc Host: Isis Narvaez-Bandera
 
