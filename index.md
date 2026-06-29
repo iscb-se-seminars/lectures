@@ -6,7 +6,8 @@ Please respond to the google form to get added to the email list.
 ## Upcoming Talks
 <img width="545" height="728" alt="image" src="https://github.com/user-attachments/assets/5644b916-c135-4c21-bfce-69b2044c632a" />
 
-- **Sign up** https://docs.google.com/forms/d/e/1FAIpQLSfOpad2CdUT-4eOA801LNw0hiSuhwabe7_DAmL-GudbBpK_-g/viewform?usp=dialog
+- **Sign up** https://docs.google.com/forms/d/1jRtuw1xCa98PcbbQJ-mvjOs1gI84XHaQ6GBHHhiLKdk/edit
+  
 Postdoc Host: Isis Narvaez-Bandera
 Zoom ID: 840 5318 1058
 Join Meeting: Zoom link https://us06web.zoom.us/j/84053181058
