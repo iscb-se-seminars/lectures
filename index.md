@@ -8,15 +8,15 @@ Please respond to the google form to get added to the email list.
 
 - **Sign up** https://docs.google.com/forms/d/1jRtuw1xCa98PcbbQJ-mvjOs1gI84XHaQ6GBHHhiLKdk/edit
   
-Postdoc Host: Isis Narvaez-Bandera
+- Postdoc Host: Isis Narvaez-Bandera
 
-Zoom ID: 840 5318 1058
+- Zoom ID: 840 5318 1058
 
-Join Meeting: Zoom link https://us06web.zoom.us/j/84053181058
+- Join Meeting: Zoom link https://us06web.zoom.us/j/84053181058
 
-Add to Outlook Calendar: Outlook calendar https://tinyurl.com/kfysv9xz
+- Add to Outlook Calendar: Outlook calendar https://tinyurl.com/kfysv9xz
 
-Add to Email Signup: https://tinyurl.com/4h77zsfk
+- Add to Email Signup: https://tinyurl.com/4h77zsfk
 
 ## Previous Talks
 - [Previous Talks](previous-talks)
