@@ -1,4 +1,17 @@
 ## Previous Talks
+- ** July 7th 2026 ** - Jeremy Goecks, Moffitt Cancer Center - 1PM EST
+<img width="545" height="728" alt="image" src="https://github.com/user-attachments/assets/5644b916-c135-4c21-bfce-69b2044c632a" />
+  
+- Postdoc Host: Isis Narvaez-Bandera
+
+- Zoom ID: 840 5318 1058
+
+- Join Meeting: Zoom link https://us06web.zoom.us/j/84053181058
+
+- Add to Outlook Calendar: Outlook calendar https://tinyurl.com/kfysv9xz
+
+- Add to Email Signup: https://tinyurl.com/4h77zsfk
+  
 - ** April 21st 2026 ** - Vladmir Uversky, University of South Florida - 1PM EST
 <img width="636" height="838" alt="image" src="https://github.com/user-attachments/assets/692212d7-05b1-486e-ac72-91dd3fb44436" />
 
