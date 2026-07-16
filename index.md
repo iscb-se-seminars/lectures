@@ -18,6 +18,15 @@ Please respond to the google form to get added to the email list.
 
 - Add to Email Signup: https://tinyurl.com/4h77zsfk
 
+## Recorded Videos
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=BBgLQrThCVA">
+    <img src="https://img.youtube.com/vi/BBgLQrThCVA/maxresdefault.jpg"
+         alt="Watch the demo"
+         width="700">
+  </a>
+</p>
+
 ## Previous Talks
 - [Previous Talks](previous-talks)
   
